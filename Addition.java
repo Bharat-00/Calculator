@@ -1,7 +1,7 @@
 import java.util.*;
 public class Addition {
     public static double add(double n,double m){
-        double c=n+m;
+        double c=n*m;
         return c;
     }
     public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class Addition {
     }
     
 }
+
